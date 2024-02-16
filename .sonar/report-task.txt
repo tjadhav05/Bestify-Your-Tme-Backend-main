@@ -1,0 +1,5 @@
+projectKey=FET_Major_project_5_Backend
+serverUrl=http://172.27.12.78
+dashboardUrl=http://172.27.12.78/dashboard/index/FET_Major_project_5_Backend
+ceTaskId=AXpSBGIZa_m12xx6Rv9s
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXpSBGIZa_m12xx6Rv9s
